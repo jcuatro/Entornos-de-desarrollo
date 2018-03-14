@@ -1,0 +1,12 @@
+{
+"name": "jcuatro/composer2",
+"repositories": [
+{
+"type": "vcs",
+"url": "https://github.com/jcuatro/Entornos-de-desarrollo"
+}
+],
+"require": {
+"vicentemonfort/hola-mundo": "dev-master"
+}
+}
